@@ -1,5 +1,5 @@
 # Shintro-Crypter
-A String and File Encoder|Decoder Tool Created by my Dear Gh0st_Dragon
+A String and File Encoder|Decoder Tool Created by my Dear Gh0st_Dragon and His friend "E"
 
 My Dear Gh0st_Dragon has Coded with a Other Friend this tool for us
 
